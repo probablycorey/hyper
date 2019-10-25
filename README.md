@@ -101,3 +101,4 @@ If you have issues in the `codesign` step when running `yarn run dist` on macOS,
 - [Awesome Hyper](https://github.com/bnb/awesome-hyper)
 hi
 hi
+I don't have write access to this repo
